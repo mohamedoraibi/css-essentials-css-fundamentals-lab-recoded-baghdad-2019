@@ -11,3 +11,7 @@ h1 {
 header{
   text-align: center;
 }
+
+nav > a{
+  background: grey;
+}
